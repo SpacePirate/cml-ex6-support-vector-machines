@@ -1,7 +1,7 @@
 # Coursera - Machine Learning by Andrew Ng
 https://www.coursera.org/learn/machine-learning
 
-# Exercise 5: Regularized Linear Regression and Bias v.s. Variance
+# Exercise 6: Support Vector Machines
 In this exercise, you will be using support vector machines (SVMs) to build
 a spam classifier. Before starting on the programming exercise, we strongly
 recommend watching the video lectures and completing the review questions
